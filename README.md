@@ -1,2 +1,2 @@
 # CentralizeConfiguration
-Having configuration of cloud applications
+Having configuration of cloud applications updated
